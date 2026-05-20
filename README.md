@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed M.Salama</h1>
+<h1 align="center">Hi 👋, I'm Ahmed M. Salama</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsalama7872-collab&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsalama7872-collab" /> </p>
